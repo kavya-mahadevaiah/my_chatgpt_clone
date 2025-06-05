@@ -1,4 +1,4 @@
-# 🧄 ChatUnicorn - Fullstack AI Chatbot App
+#  ChatUnicorn - Fullstack AI Chatbot App
 
 A magical, full-stack ChatGPT clone powered by React, Next.js, Node.js, Express, MongoDB, and OpenRouter (for AI). Styled with a pastel-pink unicorn theme using Tailwind CSS. Supports multiple chat sessions, real-time AI responses, chat history, and persistent storage.
 
